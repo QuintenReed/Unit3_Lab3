@@ -1,0 +1,9 @@
+1. 
+   a. Everything is sorted
+   b. When you can't split anymore(?)
+2. Splitting lists and sorting as you go
+3. 
+   a. math.ceil() I imagine
+   b. List size / 2
+   c. If it's an odd number, cut it so the left will have 1 more card
+4. Maybe less checks? I don't know
