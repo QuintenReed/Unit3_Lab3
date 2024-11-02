@@ -11,7 +11,6 @@ def merge_sort(num_list):
         right_list = merge_sort(num_list[ceil(len(num_list)/2):])
         #print(f"A.1\t{left_list}\t{right_list}")
 
-        # I'm not certain of this
         for item in right_list:
             jndex = 0
             sorted_flag = False
